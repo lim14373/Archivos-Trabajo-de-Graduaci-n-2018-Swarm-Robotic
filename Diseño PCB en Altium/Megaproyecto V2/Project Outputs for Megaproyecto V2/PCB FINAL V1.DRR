@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB FINAL V1.PcbDoc   17/08/2018  10:50:17 a. m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB FINAL V1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.8mm (31.496mil)        Round          109              870.82 mm (34.28 Inch)
+T2        0.85mm (33.465mil)       Round          5                101.83 mm (4.01 Inch)
+T3        0.9mm (35.433mil)        Round          64               331.75 mm (13.06 Inch)
+T4        1mm (39.37mil)           Round          6                23.00 mm (0.91 Inch)
+T5        2.5mm (98.425mil)        Round          3                11.73 mm (0.46 Inch)
+---------------------------------------------------------------------------
+Totals                                            187              1339.13 mm (52.72 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

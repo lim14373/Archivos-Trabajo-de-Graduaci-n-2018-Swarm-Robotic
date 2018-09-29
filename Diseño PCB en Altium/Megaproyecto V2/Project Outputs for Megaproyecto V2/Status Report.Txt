@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Megaproyecto V2.PrjPcb]
+   Generated File[PCB FINAL V1.GTS]
+   Generated File[PCB FINAL V1.GBS]
+   Generated File[PCB FINAL V1.RUL]
+   Generated File[PCB FINAL V1.EXTREP]
+   Generated File[PCB FINAL V1.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 1:08:00 p. m. On 17/08/2018
